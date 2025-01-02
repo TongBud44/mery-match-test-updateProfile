@@ -126,7 +126,7 @@ export default function ProfilePage() {
 
       const result = await axios.get(`${apiBaseUrl}/api/users/profile/${id}`);
 
-      // console.log("result from get", result.data);
+      console.log("result from get", result.data);
 
       const fetchDate = new Date(result.data.date_of_birth)
         .toISOString()

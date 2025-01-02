@@ -78,7 +78,7 @@ export default function Login() {
       
         </figure>
 
-        {/* Form section dddddd*/}
+        {/* Form section dddddd ffffffff*/}
         <div className="flex w-full flex-col gap-8 self-start lg:w-1/2 lg:self-auto lg:p-12">
           <header className="flex flex-col gap-1">
             <h2 className="text-third-700">LOGIN</h2>

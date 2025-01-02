@@ -75,9 +75,10 @@ export default function Login() {
               className={`h-full w-full object-cover object-right grayscale`}
             />
           </CardImage>
+      
         </figure>
 
-        {/* Form section */}
+        {/* Form section dddddd*/}
         <div className="flex w-full flex-col gap-8 self-start lg:w-1/2 lg:self-auto lg:p-12">
           <header className="flex flex-col gap-1">
             <h2 className="text-third-700">LOGIN</h2>
